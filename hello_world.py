@@ -5,10 +5,7 @@ import numpy as np
 import xarray as xr
 import climpred as cp
 def main():
-    hello = 'hello'
-    world = 'world'
-    print(f'{hello} {world}: this is extra stuff.')
-    X = 3
+    print("CONFLICT!")
 
 if __name__ == '__main__':
     main()
