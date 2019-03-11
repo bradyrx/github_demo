@@ -9,6 +9,9 @@ def main():
     world = 'world'
     print(f'{hello} {world}: this is extra stuff.')
     X = 3
+    Y = 3
+    print("tons of stuff")
+    np.array([3])
 
 if __name__ == '__main__':
     main()
