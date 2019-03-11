@@ -5,6 +5,7 @@ import numpy as np
 import xarray as xr
 import climpred as cp
 def main():
+    print("CONFLICT!")
     hello = 'hello'
     world = 'world'
     print(f'{hello} {world}: this is extra stuff.')
